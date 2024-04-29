@@ -31,3 +31,7 @@ const obtenerDigimonPromesas =() =>{
         }).catch((error)=>{
             console.log(`El error es: ${error}`);
         })
+
+
+
+        // El await hace q espere el sistema mientras que sigue realizando la carga
